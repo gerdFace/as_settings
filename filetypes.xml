@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="tempgradle" type="Groovy" />
+      <mapping pattern="tempgradle_core" type="Groovy" />
+      <mapping ext="webp" type="Image" />
+      <mapping pattern="variations_stamp" type="PLAIN_TEXT" />
+      <mapping pattern="fdc342d4f902cf2d_0" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="Web Data" type="PLAIN_TEXT" />
+      <mapping pattern="fa61b7d5dc5fa67b_0" type="PLAIN_TEXT" />
+      <mapping pattern="Cookies-journal" type="PLAIN_TEXT" />
+      <mapping pattern="variations_seed_new" type="PLAIN_TEXT" />
+      <mapping pattern="Cookies" type="PLAIN_TEXT" />
+      <mapping pattern="MANIFEST-000001" type="PLAIN_TEXT" />
+      <mapping pattern="tempactivity" type="PLAIN_TEXT" />
+      <mapping ext="persistence" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="db-shm" type="PLAIN_TEXT" />
+      <mapping ext="db-wal" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

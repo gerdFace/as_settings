@@ -1,0 +1,9 @@
+<toolSet name="Custom Tools">
+  <tool name="Uninstall Powerview" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Android\android-sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="-s FA7911A04845 uninstall com.hunterdouglas.powerview" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/Android/android-sdk/platform-tools" />
+    </exec>
+  </tool>
+</toolSet>

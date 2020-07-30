@@ -1,0 +1,20 @@
+<templateSet group="AndroidKotlin">
+  <template name="newInstance" value="companion object {&#10;    private const val $keyName$ = &quot;$keyValue$&quot;&#10;    @JvmStatic&#10;    fun newInstance(arg: String): $fragment$ {&#10;        val args = Bundle()&#10;        args.putString($keyName$, arg)&#10;        val fragment = $fragment$()&#10;        fragment.arguments = args&#10;        return fragment&#10;    }&#10;}" description="create a new Fragment instance with arguments" toReformat="true" toShortenFQNames="true">
+    <variable name="fragment" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="keyValue" expression="" defaultValue="&quot;argKey&quot;" alwaysStopAt="true" />
+    <variable name="keyName" expression="capitalizeAndUnderscore(keyValue)" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="visg" value="$VIEW$.visibility = android.view.View.GONE" description="Set view visibility to GONE" toReformat="true" toShortenFQNames="true">
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="visv" value="$VIEW$.visibility = android.view.View.VISIBLE" description="Set view visibility to VISIBLE" toReformat="true" toShortenFQNames="true">
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

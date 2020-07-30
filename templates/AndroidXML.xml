@@ -1,0 +1,11 @@
+<templateSet group="AndroidXML">
+  <template name="hdbmw" value="&lt;TextView&#10;    android:id=&quot;@+id/$id$&quot;&#10;    style=&quot;@style/V3SettingsCard.Button&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:layout_marginTop=&quot;@dimen/v3_xl_plus_spacing&quot;&#10;    android:layout_marginBottom=&quot;@dimen/v3_xl_plus_spacing&quot;&#10;    android:text=&quot;@string/$string$&quot;&#10;    android:textColor=&quot;@color/$color$&quot; /&gt;" description="HD Button Match Width" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="string" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="color" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
