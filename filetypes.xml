@@ -16,8 +16,10 @@
       <mapping pattern="tempactivity" type="PLAIN_TEXT" />
       <mapping ext="persistence" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="lck" type="PLAIN_TEXT" />
       <mapping ext="db-shm" type="PLAIN_TEXT" />
       <mapping ext="db-wal" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
