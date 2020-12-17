@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Kotlin/Eliminate argument of 'when'" />
+    <ignoreAction name="Kotlin/Replace 'when' with 'if'" />
+  </component>
+</application>
