@@ -5,6 +5,7 @@
       <mapping pattern="tempgradle_core" type="Groovy" />
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="variations_stamp" type="PLAIN_TEXT" />
       <mapping pattern="fdc342d4f902cf2d_0" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
