@@ -10,6 +10,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="Anonymous Pro for Powerline" />
   </component>
   <component name="EditorSettings">
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="JetEditorOptions">
