@@ -131,6 +131,7 @@
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
   </action>
+  <action id="Kotlin.RunScratch" />
   <action id="KotlinShellExecute" />
   <action id="LocalHistory.PutLabel">
     <keyboard-shortcut first-keystroke="shift alt equals" />
