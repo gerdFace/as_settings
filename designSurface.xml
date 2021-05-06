@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="powerview/src/main/res/layout/v3_activity_primary.xml" value="0.1" />
+        <entry key="powerview/src/main/res/layout/v3_dialog_checkbox_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
