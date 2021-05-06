@@ -1,7 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="ACTIVATE_RIGHT_EDITOR_ON_CLOSE" value="true" />
-    <option name="EDITOR_TAB_LIMIT" value="50" />
+    <option name="EDITOR_TAB_LIMIT" value="70" />
     <option name="EDITOR_TAB_PLACEMENT" value="2" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
