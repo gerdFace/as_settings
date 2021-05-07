@@ -15,6 +15,7 @@
         <entry key="powerview/src/main/res/layout/v3_dialog_loading.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_dialog_progress.xml" value="0.9" />
         <entry key="powerview/src/main/res/layout/v3_dialog_recyclerview_layout.xml" value="0.5578125" />
+        <entry key="powerview/src/main/res/layout/v3_dialog_save_progress.xml" value="0.2701816347124117" />
       </map>
     </option>
   </component>
