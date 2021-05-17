@@ -6,6 +6,7 @@
         <entry key="powerview/src/main/res/drawable/v3ic_homenew.xml" value="0.4166666666666667" />
         <entry key="powerview/src/main/res/layout/activity_about.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/dialog_network_password.xml" value="0.5578125" />
+        <entry key="powerview/src/main/res/layout/fragment_automation_time.xml" value="0.4651268115942029" />
         <entry key="powerview/src/main/res/layout/loading_dialog.xml" value="0.34148550724637683" />
         <entry key="powerview/src/main/res/layout/v2_activity_hub_details.xml" value="0.348731884057971" />
         <entry key="powerview/src/main/res/layout/v2_activity_primary.xml" value="0.34148550724637683" />
@@ -20,6 +21,8 @@
         <entry key="powerview/src/main/res/layout/v3_activity_peripheral_list.xml" value="0.34148550724637683" />
         <entry key="powerview/src/main/res/layout/v3_activity_primary.xml" value="0.3663949275362319" />
         <entry key="powerview/src/main/res/layout/v3_activity_reassign_shades.xml" value="0.18177083333333333" />
+        <entry key="powerview/src/main/res/layout/v3_activity_roomsettings.xml" value="0.3496376811594203" />
+        <entry key="powerview/src/main/res/layout/v3_activity_roomview.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_activity_stateful_nav.xml" value="0.3496376811594203" />
         <entry key="powerview/src/main/res/layout/v3_activity_transferownership.xml" value="0.33" />
         <entry key="powerview/src/main/res/layout/v3_activity_usersettings.xml" value="0.5552536231884058" />
