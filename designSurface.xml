@@ -7,6 +7,7 @@
         <entry key="powerview/src/main/res/drawable/v3ic_homenew.xml" value="0.4166666666666667" />
         <entry key="powerview/src/main/res/layout/activity_about.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/activity_hub_list.xml" value="0.204233409610984" />
+        <entry key="powerview/src/main/res/layout/activity_initialize.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/activity_powerview_main.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/dialog_network_password.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/fragment_automation_time.xml" value="0.4651268115942029" />
