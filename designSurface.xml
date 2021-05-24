@@ -52,6 +52,7 @@
         <entry key="powerview/src/main/res/layout/v3_dialog_save_progress.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_fragment_access_troubleshooting.xml" value="0.22" />
         <entry key="powerview/src/main/res/layout/v3_fragment_gateway_info.xml" value="0.33" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_gateway_settings.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/v3_fragment_settings.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_widget_home_hub_name.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_widget_shaderow.xml" value="0.348731884057971" />
