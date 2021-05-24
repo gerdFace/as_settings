@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="powerview/src/main/res/drawable/ic_arrow_left_orange.xml" value="0.2638888888888889" />
+        <entry key="powerview/src/main/res/drawable/ic_wifi.xml" value="0.4328125" />
         <entry key="powerview/src/main/res/drawable/v3ic_home_small_padded.xml" value="0.30625" />
         <entry key="powerview/src/main/res/drawable/v3ic_homenew.xml" value="0.4166666666666667" />
         <entry key="powerview/src/main/res/layout/activity_about.xml" value="0.5578125" />
@@ -49,7 +50,7 @@
         <entry key="powerview/src/main/res/layout/v3_dialog_recyclerview_layout.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v3_dialog_save_progress.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_fragment_access_troubleshooting.xml" value="0.22" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_gateway_info.xml" value="0.26366120218579236" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_gateway_info.xml" value="0.33" />
         <entry key="powerview/src/main/res/layout/v3_fragment_settings.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_widget_home_hub_name.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_widget_shaderow.xml" value="0.348731884057971" />
