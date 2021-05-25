@@ -3,10 +3,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="powerview/src/main/res/drawable/account_input_background.xml" value="0.426481909160893" />
+        <entry key="powerview/src/main/res/drawable/account_input_with_floating_hint_background.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/ic_arrow_left_orange.xml" value="0.2638888888888889" />
         <entry key="powerview/src/main/res/drawable/ic_password2.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/ic_v3_signal_4.xml" value="0.30625" />
         <entry key="powerview/src/main/res/drawable/ic_wifi.xml" value="0.4328125" />
+        <entry key="powerview/src/main/res/drawable/v3bg_topbottomoutlinefullwidth.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3ic_home_small_padded.xml" value="0.30625" />
         <entry key="powerview/src/main/res/drawable/v3ic_homenew.xml" value="0.4166666666666667" />
         <entry key="powerview/src/main/res/layout/activity_about.xml" value="0.5578125" />
@@ -18,6 +21,7 @@
         <entry key="powerview/src/main/res/layout/activity_setup_wac_wifi_instructions.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/dialog_network_password.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/fragment_automation_time.xml" value="0.4651268115942029" />
+        <entry key="powerview/src/main/res/layout/item_calendar_day.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/loading_dialog.xml" value="0.34148550724637683" />
         <entry key="powerview/src/main/res/layout/v2_activity_all_hubs_list.xml" value="0.2629781420765027" />
         <entry key="powerview/src/main/res/layout/v2_activity_hub_details.xml" value="0.348731884057971" />
