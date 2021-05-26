@@ -24,8 +24,8 @@
         <entry key="powerview/src/main/res/layout/activity_initialize.xml" value="0.2629781420765027" />
         <entry key="powerview/src/main/res/layout/activity_native_sign_up.xml" value="0.39241803278688525" />
         <entry key="powerview/src/main/res/layout/activity_powerview_main.xml" value="0.2701816347124117" />
-        <entry key="powerview/src/main/res/layout/activity_setup_wac_networklist.xml" value="0.3435792349726776" />
-        <entry key="powerview/src/main/res/layout/activity_setup_wac_start.xml" value="0.3435792349726776" />
+        <entry key="powerview/src/main/res/layout/activity_setup_wac_networklist.xml" value="0.418359375" />
+        <entry key="powerview/src/main/res/layout/activity_setup_wac_start.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/activity_setup_wac_wifi_instructions.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/dialog_network_password.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/fragment_automation_time.xml" value="0.4651268115942029" />
