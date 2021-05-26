@@ -12,11 +12,13 @@
         <entry key="powerview/src/main/res/drawable/v3_list_item_divider.xml" value="0.4328125" />
         <entry key="powerview/src/main/res/drawable/v3_list_item_divider_no_left_space.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3bg_topbottomoutlinefullwidth.xml" value="0.426481909160893" />
+        <entry key="powerview/src/main/res/drawable/v3bg_topbottomoutlinefullwidth_dark.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3ic_home_small_padded.xml" value="0.30625" />
         <entry key="powerview/src/main/res/drawable/v3ic_homenew.xml" value="0.4166666666666667" />
         <entry key="powerview/src/main/res/layout/activity_about.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/activity_hub_list.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/activity_initialize.xml" value="0.2629781420765027" />
+        <entry key="powerview/src/main/res/layout/activity_native_sign_up.xml" value="0.39241803278688525" />
         <entry key="powerview/src/main/res/layout/activity_powerview_main.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/activity_setup_wac_networklist.xml" value="0.3435792349726776" />
         <entry key="powerview/src/main/res/layout/activity_setup_wac_start.xml" value="0.3435792349726776" />
@@ -72,7 +74,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_settings.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_fragment_signupsignin.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/v3_fragment_wifi_network_list.xml" value="0.25" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_wifi_password.xml" value="0.418359375" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_wifi_password.xml" value="0.5" />
         <entry key="powerview/src/main/res/layout/v3_widget_app_notification.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/v3_widget_home_hub_name.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_widget_shaderow.xml" value="0.348731884057971" />
