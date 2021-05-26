@@ -5,6 +5,7 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="powerview/src/main/res/drawable/account_input_background.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/account_input_with_floating_hint_background.xml" value="0.426481909160893" />
+        <entry key="powerview/src/main/res/drawable/check_filled_green.xml" value="0.37083333333333335" />
         <entry key="powerview/src/main/res/drawable/ic_arrow_left_orange.xml" value="0.2638888888888889" />
         <entry key="powerview/src/main/res/drawable/ic_overflow_circleplus.xml" value="0.37083333333333335" />
         <entry key="powerview/src/main/res/drawable/ic_password2.xml" value="0.426481909160893" />
@@ -36,6 +37,7 @@
         <entry key="powerview/src/main/res/layout/v2_activity_primary.xml" value="0.34148550724637683" />
         <entry key="powerview/src/main/res/layout/v2_activity_secondary_hub_details.xml" value="0.348731884057971" />
         <entry key="powerview/src/main/res/layout/v2_activity_update_hub.xml" value="0.5578125" />
+        <entry key="powerview/src/main/res/layout/v2_activity_wac_completed.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v2_recycler_item_network.xml" value="0.3435792349726776" />
         <entry key="powerview/src/main/res/layout/v2v3_activity_advancedaccountsettings.xml" value="0.5552536231884058" />
         <entry key="powerview/src/main/res/layout/v2v3_fragment_settingsadvanced.xml" value="0.5578125" />
@@ -69,13 +71,18 @@
         <entry key="powerview/src/main/res/layout/v3_dialog_recyclerview_layout.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v3_dialog_save_progress.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_fragment_access_troubleshooting.xml" value="0.22" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_gateway_connect_ethernet.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_fragment_gateway_info.xml" value="0.33" />
         <entry key="powerview/src/main/res/layout/v3_fragment_gateway_list.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/v3_fragment_gateway_placement.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/v3_fragment_gateway_settings.xml" value="0.204233409610984" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_gateway_wifi_connected.xml" value="0.418359375" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_mixedenvironmentsuccess.xml" value="0.41154371584699456" />
         <entry key="powerview/src/main/res/layout/v3_fragment_name_gateway.xml" value="0.204233409610984" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_remotesuccess.xml" value="0.41154371584699456" />
         <entry key="powerview/src/main/res/layout/v3_fragment_settings.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_fragment_signupsignin.xml" value="0.204233409610984" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_syncing_shade_success.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/v3_fragment_wifi_network_list.xml" value="0.46023166023166023" />
         <entry key="powerview/src/main/res/layout/v3_fragment_wifi_password.xml" value="0.33" />
         <entry key="powerview/src/main/res/layout/v3_widget_app_notification.xml" value="0.204233409610984" />
