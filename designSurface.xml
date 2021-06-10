@@ -55,6 +55,7 @@
         <entry key="powerview/src/main/res/layout/v3_activity_replace_shade.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/v3_activity_roomsettings.xml" value="0.3496376811594203" />
         <entry key="powerview/src/main/res/layout/v3_activity_roomview.xml" value="0.3496376811594203" />
+        <entry key="powerview/src/main/res/layout/v3_activity_shade_info.xml" value="0.26458333333333334" />
         <entry key="powerview/src/main/res/layout/v3_activity_startup_troubleshooting.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_activity_stateful_nav.xml" value="0.3496376811594203" />
         <entry key="powerview/src/main/res/layout/v3_activity_transferownership.xml" value="0.33" />
@@ -84,7 +85,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_settings.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_fragment_signupsignin.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/v3_fragment_syncing_shade_success.xml" value="0.204233409610984" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_wifi_add_network.xml" value="0.3541666666666667" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_wifi_add_network.xml" value="0.2847222222222222" />
         <entry key="powerview/src/main/res/layout/v3_fragment_wifi_network_list.xml" value="0.46023166023166023" />
         <entry key="powerview/src/main/res/layout/v3_fragment_wifi_password.xml" value="0.26639344262295084" />
         <entry key="powerview/src/main/res/layout/v3_widget_app_notification.xml" value="0.204233409610984" />
