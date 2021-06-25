@@ -65,7 +65,7 @@
         <entry key="powerview/src/main/res/layout/v3_activity_gatewaypromptselect.xml" value="0.348731884057971" />
         <entry key="powerview/src/main/res/layout/v3_activity_gateways.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_activity_homeinfooptions.xml" value="0.3670322138450994" />
-        <entry key="powerview/src/main/res/layout/v3_activity_homesettings.xml" value="0.3496376811594203" />
+        <entry key="powerview/src/main/res/layout/v3_activity_homesettings.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_migrateinvite.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_activity_peripheral_list.xml" value="0.34148550724637683" />
         <entry key="powerview/src/main/res/layout/v3_activity_primary.xml" value="0.3663949275362319" />
@@ -98,6 +98,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_bluetooth_settings_troubleshooting.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_connect_with_wifi.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_elevated_location_permission.xml" value="0.371875" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_existinghomesfound.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_fine_location_permission.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_gateway_added.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_gateway_connect_ethernet.xml" value="0.418359375" />
@@ -109,6 +110,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_gateway_wifi_connected.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_fragment_location_settings_troubleshooting.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_looking_for_gateway.xml" value="0.371875" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_mixedenvironment.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_mixedenvironmentsuccess.xml" value="0.41154371584699456" />
         <entry key="powerview/src/main/res/layout/v3_fragment_name_gateway.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_remotefirmwareholdstop.xml" value="0.371875" />
