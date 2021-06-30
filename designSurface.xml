@@ -19,7 +19,8 @@
         <entry key="powerview/src/main/res/drawable/ic_password2.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/ic_v3_signal_4.xml" value="0.30625" />
         <entry key="powerview/src/main/res/drawable/ic_wifi.xml" value="0.4328125" />
-        <entry key="powerview/src/main/res/drawable/v3_bg_top_outline.xml" value="0.37971213159698425" />
+        <entry key="powerview/src/main/res/drawable/v3_bg_end_outline.xml" value="0.5575" />
+        <entry key="powerview/src/main/res/drawable/v3_bg_top_outline.xml" value="0.5770833333333333" />
         <entry key="powerview/src/main/res/drawable/v3_list_item_divider.xml" value="0.4328125" />
         <entry key="powerview/src/main/res/drawable/v3_list_item_divider_no_left_space.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3bg_roundedbutton.xml" value="0.38472222222222224" />
