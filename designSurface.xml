@@ -38,7 +38,7 @@
         <entry key="powerview/src/main/res/drawable/v3ic_wifi_strength_1.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/layout-sw720dp/v2_fragment_scenes.xml" value="0.4016927083333333" />
         <entry key="powerview/src/main/res/layout-sw768dp/v3_activity_primary.xml" value="0.4016927083333333" />
-        <entry key="powerview/src/main/res/layout-w768dp/v3_activity_primary.xml" value="0.52294921875" />
+        <entry key="powerview/src/main/res/layout-w768dp/v3_activity_primary.xml" value="0.3470052083333333" />
         <entry key="powerview/src/main/res/layout-w768dp/v3_activity_stateful_nav_new.xml" value="0.52294921875" />
         <entry key="powerview/src/main/res/layout/activity_about.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/activity_hub_list.xml" value="0.204233409610984" />
@@ -83,7 +83,7 @@
         <entry key="powerview/src/main/res/layout/v3_activity_homesettings.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_migrateinvite.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_activity_peripheral_list.xml" value="0.34148550724637683" />
-        <entry key="powerview/src/main/res/layout/v3_activity_primary.xml" value="0.418359375" />
+        <entry key="powerview/src/main/res/layout/v3_activity_primary.xml" value="0.347953216374269" />
         <entry key="powerview/src/main/res/layout/v3_activity_reassign_shades.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_activity_replace_shade.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_activity_roomsettings.xml" value="0.3670322138450994" />
