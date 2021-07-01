@@ -20,14 +20,19 @@
         <entry key="powerview/src/main/res/drawable/ic_v3_signal_4.xml" value="0.30625" />
         <entry key="powerview/src/main/res/drawable/ic_wifi.xml" value="0.4328125" />
         <entry key="powerview/src/main/res/drawable/v3_bg_end_outline.xml" value="0.3411458333333333" />
+        <entry key="powerview/src/main/res/drawable/v3_bg_start_outline_accent.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3_bg_top_outline.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/drawable/v3_list_item_divider.xml" value="0.4328125" />
         <entry key="powerview/src/main/res/drawable/v3_list_item_divider_no_left_space.xml" value="0.426481909160893" />
+        <entry key="powerview/src/main/res/drawable/v3_nav_side_text_selector.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3bg_roundedbutton.xml" value="0.38472222222222224" />
         <entry key="powerview/src/main/res/drawable/v3bg_topbottomoutlinefullwidth.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3bg_topbottomoutlinefullwidth_dark.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3ic_home_small_padded.xml" value="0.30625" />
         <entry key="powerview/src/main/res/drawable/v3ic_homenew.xml" value="0.4166666666666667" />
+        <entry key="powerview/src/main/res/drawable/v3ic_nav_side_selector.xml" value="0.426481909160893" />
+        <entry key="powerview/src/main/res/drawable/v3ic_navautomationsfilled.xml" value="0.426481909160893" />
+        <entry key="powerview/src/main/res/drawable/v3ic_navautomationsselector.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3ic_wifi_network.xml" value="0.37971213159698425" />
         <entry key="powerview/src/main/res/drawable/v3ic_wifi_strength_0.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3ic_wifi_strength_1.xml" value="0.426481909160893" />
@@ -147,6 +152,7 @@
         <entry key="powerview/src/main/res/layout/v3_widget_switch_home_banner.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_widget_temporary_access_banner.xml" value="0.241015625" />
         <entry key="powerview/src/main/res/layout/v3_widget_wifi_network.xml" value="0.3670322138450994" />
+        <entry key="powerview/src/main/res/menu/v3_bottom_tab_nav.xml" value="0.4122401847575058" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_done.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_join.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_plus.xml" value="0.418359375" />
