@@ -117,6 +117,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_automation_settings.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_bluetooth_settings_troubleshooting.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_connect_with_wifi.xml" value="0.371875" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_dashboardedit.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v3_fragment_elevated_location_permission.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_existinghomesfound.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_fine_location_permission.xml" value="0.371875" />
@@ -154,7 +155,7 @@
         <entry key="powerview/src/main/res/layout/v3_widget_mergehomerow.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_widget_scenerow.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_widget_shaderow.xml" value="0.371875" />
-        <entry key="powerview/src/main/res/layout/v3_widget_side_nav_header.xml" value="0.4122401847575058" />
+        <entry key="powerview/src/main/res/layout/v3_widget_side_nav_header.xml" value="0.5075" />
         <entry key="powerview/src/main/res/layout/v3_widget_switch_home_banner.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_widget_switch_hub_home_banner.xml" value="0.4122401847575058" />
         <entry key="powerview/src/main/res/layout/v3_widget_temporary_access_banner.xml" value="0.241015625" />
