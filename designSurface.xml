@@ -36,8 +36,9 @@
         <entry key="powerview/src/main/res/drawable/v3ic_wifi_network.xml" value="0.37971213159698425" />
         <entry key="powerview/src/main/res/drawable/v3ic_wifi_strength_0.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3ic_wifi_strength_1.xml" value="0.426481909160893" />
-        <entry key="powerview/src/main/res/layout-sw720dp/v2_fragment_scenes.xml" value="0.349609375" />
+        <entry key="powerview/src/main/res/layout-sw720dp/v2_fragment_scenes.xml" value="0.23893229166666666" />
         <entry key="powerview/src/main/res/layout-sw768dp/v3_activity_primary.xml" value="0.4016927083333333" />
+        <entry key="powerview/src/main/res/layout-w720dp/v3_activity_base_navigation.xml" value="0.33" />
         <entry key="powerview/src/main/res/layout-w768dp/v3_activity_primary.xml" value="0.3470052083333333" />
         <entry key="powerview/src/main/res/layout-w768dp/v3_activity_stateful_nav_new.xml" value="0.3470052083333333" />
         <entry key="powerview/src/main/res/layout/activity_about.xml" value="0.5578125" />
@@ -75,7 +76,7 @@
         <entry key="powerview/src/main/res/layout/v3_activity_accounttype.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_automation_settings.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_automation_setup.xml" value="0.371875" />
-        <entry key="powerview/src/main/res/layout/v3_activity_base_navigation.xml" value="0.4475" />
+        <entry key="powerview/src/main/res/layout/v3_activity_base_navigation.xml" value="0.45875" />
         <entry key="powerview/src/main/res/layout/v3_activity_connect_wifi_container.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_firmware_list_dev.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_gatewaypromptselect.xml" value="0.348731884057971" />
@@ -94,7 +95,7 @@
         <entry key="powerview/src/main/res/layout/v3_activity_shade_info.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_activity_shadesettings.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_startup_troubleshooting.xml" value="0.2701816347124117" />
-        <entry key="powerview/src/main/res/layout/v3_activity_stateful_nav.xml" value="0.35230263157894737" />
+        <entry key="powerview/src/main/res/layout/v3_activity_stateful_nav.xml" value="0.23893229166666666" />
         <entry key="powerview/src/main/res/layout/v3_activity_stateful_nav_new.xml" value="0.33100697906281157" />
         <entry key="powerview/src/main/res/layout/v3_activity_transferownership.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_activity_usersettings.xml" value="0.5552536231884058" />
