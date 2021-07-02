@@ -152,6 +152,7 @@
         <entry key="powerview/src/main/res/layout/v3_view_dismissible_toast.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_widget_app_notification.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/v3_widget_automation_schedule.xml" value="0.371875" />
+        <entry key="powerview/src/main/res/layout/v3_widget_emptyview.xml" value="0.4025" />
         <entry key="powerview/src/main/res/layout/v3_widget_home_hub_name.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_widget_mergehomerow.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_widget_scenerow.xml" value="0.418359375" />
@@ -165,10 +166,12 @@
         <entry key="powerview/src/main/res/menu/edit_menu.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v2_dash_tab.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v3_bottom_tab_nav.xml" value="0.5433333333333333" />
+        <entry key="powerview/src/main/res/menu/v3_menu_feedback_arrow.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_done.xml" value="0.54" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_join.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_plus.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_save.xml" value="0.418359375" />
+        <entry key="powerview/src/main/res/menu/v3_menu_primary.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v3_menu_primary_dash.xml" value="0.5433333333333333" />
         <entry key="powerview/src/main/res/menu/v3_menu_primary_scenes.xml" value="0.2520833333333333" />
       </map>
