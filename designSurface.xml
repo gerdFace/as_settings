@@ -38,7 +38,7 @@
         <entry key="powerview/src/main/res/drawable/v3ic_wifi_strength_1.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/layout-sw720dp/v2_fragment_scenes.xml" value="0.23893229166666666" />
         <entry key="powerview/src/main/res/layout-sw768dp/v3_activity_primary.xml" value="0.4016927083333333" />
-        <entry key="powerview/src/main/res/layout-w720dp/v3_activity_base_navigation.xml" value="0.26220703125" />
+        <entry key="powerview/src/main/res/layout-w720dp/v3_activity_base_navigation.xml" value="0.3171875" />
         <entry key="powerview/src/main/res/layout-w768dp/v3_activity_primary.xml" value="0.3470052083333333" />
         <entry key="powerview/src/main/res/layout-w768dp/v3_activity_stateful_nav_new.xml" value="0.3470052083333333" />
         <entry key="powerview/src/main/res/layout/activity_about.xml" value="0.5578125" />
