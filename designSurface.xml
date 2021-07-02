@@ -76,7 +76,7 @@
         <entry key="powerview/src/main/res/layout/v3_activity_accounttype.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_automation_settings.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_automation_setup.xml" value="0.371875" />
-        <entry key="powerview/src/main/res/layout/v3_activity_base_navigation.xml" value="0.45875" />
+        <entry key="powerview/src/main/res/layout/v3_activity_base_navigation.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v3_activity_connect_wifi_container.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_firmware_list_dev.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_gatewaypromptselect.xml" value="0.348731884057971" />
@@ -165,6 +165,7 @@
         <entry key="powerview/src/main/res/menu/done_menu.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/edit_menu.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v2_dash_tab.xml" value="0.5578125" />
+        <entry key="powerview/src/main/res/menu/v2_menu_done.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v3_bottom_tab_nav.xml" value="0.5433333333333333" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_arrow.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_done.xml" value="0.54" />
