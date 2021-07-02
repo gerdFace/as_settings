@@ -25,7 +25,9 @@
         <entry key="powerview/src/main/res/drawable/v3_list_item_divider.xml" value="0.4328125" />
         <entry key="powerview/src/main/res/drawable/v3_list_item_divider_no_left_space.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3_nav_side_text_selector.xml" value="0.426481909160893" />
+        <entry key="powerview/src/main/res/drawable/v3_notification_dot.xml" value="0.3046875" />
         <entry key="powerview/src/main/res/drawable/v3bg_roundedbutton.xml" value="0.38472222222222224" />
+        <entry key="powerview/src/main/res/drawable/v3bg_toolbar.xml" value="0.541015625" />
         <entry key="powerview/src/main/res/drawable/v3bg_topbottomoutlinefullwidth.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3bg_topbottomoutlinefullwidth_dark.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3ic_home_small_padded.xml" value="0.30625" />
@@ -33,6 +35,9 @@
         <entry key="powerview/src/main/res/drawable/v3ic_nav_side_selector.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3ic_navautomationsfilled.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3ic_navautomationsselector.xml" value="0.426481909160893" />
+        <entry key="powerview/src/main/res/drawable/v3ic_navmore.xml" value="0.3046875" />
+        <entry key="powerview/src/main/res/drawable/v3ic_navmore_dot.xml" value="0.3046875" />
+        <entry key="powerview/src/main/res/drawable/v3ic_navmoreselector.xml" value="0.3046875" />
         <entry key="powerview/src/main/res/drawable/v3ic_wifi_network.xml" value="0.37971213159698425" />
         <entry key="powerview/src/main/res/drawable/v3ic_wifi_strength_0.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3ic_wifi_strength_1.xml" value="0.426481909160893" />
@@ -70,6 +75,7 @@
         <entry key="powerview/src/main/res/layout/v2_recycler_item_network.xml" value="0.3435792349726776" />
         <entry key="powerview/src/main/res/layout/v2v3_activity_advancedaccountsettings.xml" value="0.5552536231884058" />
         <entry key="powerview/src/main/res/layout/v2v3_fragment_settingsadvanced.xml" value="0.5578125" />
+        <entry key="powerview/src/main/res/layout/v2v3_widget_morerow.xml" value="0.2708333333333333" />
         <entry key="powerview/src/main/res/layout/v3_activity_acceptownership.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_accounthomes.xml" value="0.20861937452326468" />
         <entry key="powerview/src/main/res/layout/v3_activity_accountsettings.xml" value="0.2701816347124117" />
@@ -134,7 +140,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_looking_for_gateway.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_mixedenvironment.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_mixedenvironmentsuccess.xml" value="0.41154371584699456" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_more.xml" value="0.396484375" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_more.xml" value="0.2708333333333333" />
         <entry key="powerview/src/main/res/layout/v3_fragment_name_gateway.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_remotedetailsx.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_remotefirmwareholdstop.xml" value="0.371875" />
@@ -167,7 +173,7 @@
         <entry key="powerview/src/main/res/menu/edit_menu.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v2_dash_tab.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v2_menu_done.xml" value="0.5578125" />
-        <entry key="powerview/src/main/res/menu/v3_bottom_tab_nav.xml" value="0.5578125" />
+        <entry key="powerview/src/main/res/menu/v3_bottom_tab_nav.xml" value="0.203125" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_arrow.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_done.xml" value="0.54" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_join.xml" value="0.418359375" />
