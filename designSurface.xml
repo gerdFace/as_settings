@@ -110,7 +110,7 @@
         <entry key="powerview/src/main/res/layout/v3_activity_stateful_nav_new.xml" value="0.33100697906281157" />
         <entry key="powerview/src/main/res/layout/v3_activity_transferownership.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_activity_usersettings.xml" value="0.5552536231884058" />
-        <entry key="powerview/src/main/res/layout/v3_activity_wifi.xml" value="0.3670322138450994" />
+        <entry key="powerview/src/main/res/layout/v3_activity_wifi.xml" value="0.4576923076923077" />
         <entry key="powerview/src/main/res/layout/v3_control_bottom_up_shade.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v3_control_bottom_up_shade_blackout.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v3_control_bottom_up_shade_vane_180_blackout.xml" value="0.5578125" />
@@ -182,9 +182,10 @@
         <entry key="powerview/src/main/res/menu/v2_dash_tab.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v2_menu_done.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v3_bottom_tab_nav.xml" value="0.51416015625" />
+        <entry key="powerview/src/main/res/menu/v3_menu_feedback.xml" value="0.4576923076923077" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_arrow.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_done.xml" value="0.54" />
-        <entry key="powerview/src/main/res/menu/v3_menu_feedback_join.xml" value="0.418359375" />
+        <entry key="powerview/src/main/res/menu/v3_menu_feedback_join.xml" value="0.4503784693019344" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_plus.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_save.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/menu/v3_menu_primary.xml" value="0.5578125" />
