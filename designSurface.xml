@@ -65,7 +65,7 @@
         <entry key="powerview/src/main/res/layout/v2_activity_flatscene_edit.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v2_activity_flatscene_name.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v2_activity_flatscenegroup_edit.xml" value="0.371875" />
-        <entry key="powerview/src/main/res/layout/v2_activity_hub_details.xml" value="0.348731884057971" />
+        <entry key="powerview/src/main/res/layout/v2_activity_hub_details.xml" value="0.4503784693019344" />
         <entry key="powerview/src/main/res/layout/v2_activity_hub_wac_details.xml" value="0.2629781420765027" />
         <entry key="powerview/src/main/res/layout/v2_activity_landing_page.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v2_activity_primary.xml" value="0.51416015625" />
@@ -169,7 +169,7 @@
         <entry key="powerview/src/main/res/layout/v3_widget_app_notification.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/v3_widget_automation_schedule.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_widget_emptyview.xml" value="0.51416015625" />
-        <entry key="powerview/src/main/res/layout/v3_widget_home_hub_name.xml" value="0.2701816347124117" />
+        <entry key="powerview/src/main/res/layout/v3_widget_home_hub_name.xml" value="0.4576923076923077" />
         <entry key="powerview/src/main/res/layout/v3_widget_mergehomerow.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_widget_scenerow.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_widget_shaderow.xml" value="0.371875" />
