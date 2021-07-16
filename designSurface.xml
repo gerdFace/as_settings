@@ -185,7 +185,7 @@
         <entry key="powerview/src/main/res/layout/v3_widget_app_notification.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/v3_widget_automation_schedule.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_widget_empty_home_view.xml" value="0.5469867211440245" />
-        <entry key="powerview/src/main/res/layout/v3_widget_emptyview.xml" value="0.5469867211440245" />
+        <entry key="powerview/src/main/res/layout/v3_widget_emptyview.xml" value="0.25" />
         <entry key="powerview/src/main/res/layout/v3_widget_home_hub_name.xml" value="0.4576923076923077" />
         <entry key="powerview/src/main/res/layout/v3_widget_mergehomerow.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_widget_roombarnew.xml" value="0.5578125" />
