@@ -170,7 +170,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_rooms.xml" value="0.5469867211440245" />
         <entry key="powerview/src/main/res/layout/v3_fragment_roomselect.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v3_fragment_roomssceneselect.xml" value="0.5578125" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_scenes.xml" value="0.5469867211440245" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_scenes.xml" value="0.1" />
         <entry key="powerview/src/main/res/layout/v3_fragment_scenesettings.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_settings.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_fragment_setuphomepowertype.xml" value="0.5578125" />
