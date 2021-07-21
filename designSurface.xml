@@ -50,6 +50,7 @@
         <entry key="powerview/src/main/res/layout-sw720dp/v2_fragment_scenes.xml" value="0.23893229166666666" />
         <entry key="powerview/src/main/res/layout-sw768dp/v3_activity_primary.xml" value="0.4016927083333333" />
         <entry key="powerview/src/main/res/layout-w720dp/v3_activity_base_navigation.xml" value="0.259765625" />
+        <entry key="powerview/src/main/res/layout-w720dp/v3_activity_primary_navigation.xml" value="0.299609375" />
         <entry key="powerview/src/main/res/layout-w768dp/v3_activity_primary.xml" value="0.3470052083333333" />
         <entry key="powerview/src/main/res/layout-w768dp/v3_activity_stateful_nav_new.xml" value="0.3470052083333333" />
         <entry key="powerview/src/main/res/layout/activity_about.xml" value="0.5578125" />
@@ -95,6 +96,7 @@
         <entry key="powerview/src/main/res/layout/v3_activity_base_navigation.xml" value="0.48243243243243245" />
         <entry key="powerview/src/main/res/layout/v3_activity_checking_home_settings.xml" value="0.5" />
         <entry key="powerview/src/main/res/layout/v3_activity_connect_wifi_container.xml" value="0.371875" />
+        <entry key="powerview/src/main/res/layout/v3_activity_empty_host.xml" value="0.30333333333333334" />
         <entry key="powerview/src/main/res/layout/v3_activity_firmware_list_dev.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_gatewaypromptselect.xml" value="0.348731884057971" />
         <entry key="powerview/src/main/res/layout/v3_activity_gateways.xml" value="0.3670322138450994" />
@@ -105,6 +107,7 @@
         <entry key="powerview/src/main/res/layout/v3_activity_migrateinvite.xml" value="0.4503784693019344" />
         <entry key="powerview/src/main/res/layout/v3_activity_peripheral_list.xml" value="0.34148550724637683" />
         <entry key="powerview/src/main/res/layout/v3_activity_primary.xml" value="0.347953216374269" />
+        <entry key="powerview/src/main/res/layout/v3_activity_primary_navigation.xml" value="0.4697368421052632" />
         <entry key="powerview/src/main/res/layout/v3_activity_reassign_shades.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_activity_remotegroup.xml" value="0.2777777777777778" />
         <entry key="powerview/src/main/res/layout/v3_activity_remoteslist.xml" value="0.360546875" />
@@ -139,7 +142,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_accounttypenotification.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_automation_scheduler.xml" value="0.365625" />
         <entry key="powerview/src/main/res/layout/v3_fragment_automation_settings.xml" value="0.371875" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_automations.xml" value="0.48243243243243245" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_automations.xml" value="0.360546875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_bluetooth_settings_troubleshooting.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_checking_home_settings.xml" value="0.4428090832632464" />
         <entry key="powerview/src/main/res/layout/v3_fragment_connect_with_wifi.xml" value="0.4576923076923077" />
@@ -170,11 +173,11 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_remotesuccess.xml" value="0.41154371584699456" />
         <entry key="powerview/src/main/res/layout/v3_fragment_replace_shade.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_replace_shade_list.xml" value="0.3670322138450994" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_rooms.xml" value="0.360546875" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_rooms.xml" value="0.21328125" />
         <entry key="powerview/src/main/res/layout/v3_fragment_roomselect.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v3_fragment_roomssceneselect.xml" value="0.259765625" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_roomview.xml" value="0.30333333333333334" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_scenes.xml" value="0.259765625" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_roomview.xml" value="0.46203623813632444" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_scenes.xml" value="0.21328125" />
         <entry key="powerview/src/main/res/layout/v3_fragment_scenesettings.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_settings.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_fragment_setuphomepowertype.xml" value="0.5578125" />
