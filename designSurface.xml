@@ -214,6 +214,7 @@
         <entry key="powerview/src/main/res/layout/v3_widget_scenerow.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_widget_selectalllist.xml" value="0.2777777777777778" />
         <entry key="powerview/src/main/res/layout/v3_widget_shaderow.xml" value="0.33" />
+        <entry key="powerview/src/main/res/layout/v3_widget_shadesquare.xml" value="0.75" />
         <entry key="powerview/src/main/res/layout/v3_widget_side_nav_header.xml" value="0.51416015625" />
         <entry key="powerview/src/main/res/layout/v3_widget_switch_home_banner.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_widget_switch_hub_home_banner.xml" value="0.51416015625" />
