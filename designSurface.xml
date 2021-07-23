@@ -202,7 +202,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_wifi_add_network.xml" value="0.4503784693019344" />
         <entry key="powerview/src/main/res/layout/v3_fragment_wifi_network_list.xml" value="0.4279891304347826" />
         <entry key="powerview/src/main/res/layout/v3_fragment_wifi_password.xml" value="0.3670322138450994" />
-        <entry key="powerview/src/main/res/layout/v3_recycler_item_scene.xml" value="0.5" />
+        <entry key="powerview/src/main/res/layout/v3_recycler_item_scene.xml" value="0.541875" />
         <entry key="powerview/src/main/res/layout/v3_recycler_item_section_header_simple.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_recycler_item_section_header_simple_no_padding.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_theme_picker.xml" value="0.371875" />
