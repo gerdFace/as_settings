@@ -215,6 +215,7 @@
         <entry key="powerview/src/main/res/layout/v3_widget_emptyview.xml" value="0.48243243243243245" />
         <entry key="powerview/src/main/res/layout/v3_widget_gateway_placement_card.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_widget_gateway_placement_row.xml" value="0.371875" />
+        <entry key="powerview/src/main/res/layout/v3_widget_gateway_row.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_widget_home_hub_name.xml" value="0.4576923076923077" />
         <entry key="powerview/src/main/res/layout/v3_widget_mergehomerow.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_widget_room_view_theme_views.xml" value="0.24921875" />
