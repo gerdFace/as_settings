@@ -96,6 +96,7 @@
         <entry key="powerview/src/main/res/layout/v2_activity_secondary_hub_details.xml" value="0.348731884057971" />
         <entry key="powerview/src/main/res/layout/v2_activity_update_hub.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v2_activity_wac_completed.xml" value="0.418359375" />
+        <entry key="powerview/src/main/res/layout/v2_fragment_dashboard.xml" value="0.22685185185185186" />
         <entry key="powerview/src/main/res/layout/v2_fragment_more.xml" value="0.52294921875" />
         <entry key="powerview/src/main/res/layout/v2_recycler_item_network.xml" value="0.3435792349726776" />
         <entry key="powerview/src/main/res/layout/v2_recycler_item_section_header_simple.xml" value="0.418359375" />
