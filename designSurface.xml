@@ -32,11 +32,11 @@
         <entry key="powerview/src/main/res/drawable/v3_bg_end_outline.xml" value="0.4122401847575058" />
         <entry key="powerview/src/main/res/drawable/v3_bg_start_outline_accent.xml" value="0.4122401847575058" />
         <entry key="powerview/src/main/res/drawable/v3_bg_top_outline.xml" value="0.4122401847575058" />
-        <entry key="powerview/src/main/res/drawable/v3_bottom_divider_viewgroup_bg.xml" value="0.3203125" />
+        <entry key="powerview/src/main/res/drawable/v3_bottom_divider_viewgroup_bg.xml" value="0.541015625" />
         <entry key="powerview/src/main/res/drawable/v3_list_item_divider.xml" value="0.541015625" />
         <entry key="powerview/src/main/res/drawable/v3_list_item_divider_no_left_space.xml" value="0.426481909160893" />
         <entry key="powerview/src/main/res/drawable/v3_nav_side_bg_selector.xml" value="0.3203125" />
-        <entry key="powerview/src/main/res/drawable/v3_nav_side_text_selector.xml" value="0.426481909160893" />
+        <entry key="powerview/src/main/res/drawable/v3_nav_side_text_selector.xml" value="0.3203125" />
         <entry key="powerview/src/main/res/drawable/v3_notification_dot.xml" value="0.3046875" />
         <entry key="powerview/src/main/res/drawable/v3bg_circle.xml" value="0.4328125" />
         <entry key="powerview/src/main/res/drawable/v3bg_roundedbutton.xml" value="0.4735042735042735" />
@@ -71,7 +71,7 @@
         <entry key="powerview/src/main/res/layout-w768dp/v3_activity_primary.xml" value="0.3470052083333333" />
         <entry key="powerview/src/main/res/layout-w768dp/v3_activity_stateful_nav_new.xml" value="0.3470052083333333" />
         <entry key="powerview/src/main/res/layout/activity_about.xml" value="0.5578125" />
-        <entry key="powerview/src/main/res/layout/activity_firmware_updates.xml" value="0.4697368421052632" />
+        <entry key="powerview/src/main/res/layout/activity_firmware_updates.xml" value="0.40771484375" />
         <entry key="powerview/src/main/res/layout/activity_hub_list.xml" value="0.204233409610984" />
         <entry key="powerview/src/main/res/layout/activity_initialize.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/activity_native_sign_up.xml" value="0.39241803278688525" />
@@ -102,13 +102,13 @@
         <entry key="powerview/src/main/res/layout/v2_activity_update_hub.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v2_activity_wac_completed.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v2_fragment_dashboard.xml" value="0.22685185185185186" />
-        <entry key="powerview/src/main/res/layout/v2_fragment_more.xml" value="0.4697368421052632" />
+        <entry key="powerview/src/main/res/layout/v2_fragment_more.xml" value="0.54833984375" />
         <entry key="powerview/src/main/res/layout/v2_recycler_item_network.xml" value="0.3435792349726776" />
         <entry key="powerview/src/main/res/layout/v2_recycler_item_section_header_simple.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v2v3_activity_advancedaccountsettings.xml" value="0.5552536231884058" />
         <entry key="powerview/src/main/res/layout/v2v3_fragment_settingsadvanced.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v2v3_widget_morerow.xml" value="0.41162109375" />
-        <entry key="powerview/src/main/res/layout/v2v3_widget_notification_badge.xml" value="0.27149122807017545" />
+        <entry key="powerview/src/main/res/layout/v2v3_widget_notification_badge.xml" value="0.39326556543837354" />
         <entry key="powerview/src/main/res/layout/v3_activity_acceptownership.xml" value="0.2936197916666667" />
         <entry key="powerview/src/main/res/layout/v3_activity_accounthomes.xml" value="0.20861937452326468" />
         <entry key="powerview/src/main/res/layout/v3_activity_accountsettings.xml" value="0.2701816347124117" />
@@ -189,7 +189,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_looking_for_gateway.xml" value="0.4576923076923077" />
         <entry key="powerview/src/main/res/layout/v3_fragment_mixedenvironment.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_fragment_mixedenvironmentsuccess.xml" value="0.41154371584699456" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_more.xml" value="0.27442827442827444" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_more.xml" value="0.41162109375" />
         <entry key="powerview/src/main/res/layout/v3_fragment_name_gateway.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_namehome.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v3_fragment_plug_in_your_gateway.xml" value="0.52294921875" />
@@ -204,7 +204,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_roomssceneselect.xml" value="0.49583333333333335" />
         <entry key="powerview/src/main/res/layout/v3_fragment_roomview.xml" value="0.4697368421052632" />
         <entry key="powerview/src/main/res/layout/v3_fragment_scenes.xml" value="0.37421875" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_scenesettings.xml" value="0.37421875" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_scenesettings.xml" value="0.30224609375" />
         <entry key="powerview/src/main/res/layout/v3_fragment_settings.xml" value="0.2701816347124117" />
         <entry key="powerview/src/main/res/layout/v3_fragment_setuphomepowertype.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v3_fragment_shadesuccess.xml" value="0.19956140350877194" />
@@ -215,7 +215,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_wifi_network_list.xml" value="0.34097222222222223" />
         <entry key="powerview/src/main/res/layout/v3_fragment_wifi_password.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_recycler_firmware_update_header_item.xml" value="0.39326556543837354" />
-        <entry key="powerview/src/main/res/layout/v3_recycler_item_firmware_update_cell.xml" value="0.5436197916666666" />
+        <entry key="powerview/src/main/res/layout/v3_recycler_item_firmware_update_cell.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_recycler_item_scene.xml" value="0.541875" />
         <entry key="powerview/src/main/res/layout/v3_recycler_item_section_header_simple.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v3_recycler_item_section_header_simple_no_padding.xml" value="0.418359375" />
@@ -248,7 +248,7 @@
         <entry key="powerview/src/main/res/menu/edit_menu.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v2_dash_tab.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v2_menu_done.xml" value="0.5578125" />
-        <entry key="powerview/src/main/res/menu/v3_bottom_tab_nav.xml" value="0.51416015625" />
+        <entry key="powerview/src/main/res/menu/v3_bottom_tab_nav.xml" value="0.30224609375" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback.xml" value="0.4576923076923077" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_arrow.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/menu/v3_menu_feedback_done.xml" value="0.54" />
