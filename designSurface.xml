@@ -130,6 +130,7 @@
         <entry key="powerview/src/main/res/layout/v3_activity_bulkupdates.xml" value="0.25" />
         <entry key="powerview/src/main/res/layout/v3_activity_checking_home_settings.xml" value="0.5" />
         <entry key="powerview/src/main/res/layout/v3_activity_connect_wifi_container.xml" value="0.371875" />
+        <entry key="powerview/src/main/res/layout/v3_activity_dev_tools.xml" value="0.2325657894736842" />
         <entry key="powerview/src/main/res/layout/v3_activity_empty_host.xml" value="0.44537037037037036" />
         <entry key="powerview/src/main/res/layout/v3_activity_firmware_list_dev.xml" value="0.371875" />
         <entry key="powerview/src/main/res/layout/v3_activity_gatewaypromptselect.xml" value="0.348731884057971" />
