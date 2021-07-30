@@ -116,6 +116,7 @@
         <entry key="powerview/src/main/res/layout/v2_recycler_item_network.xml" value="0.3435792349726776" />
         <entry key="powerview/src/main/res/layout/v2_recycler_item_section_header_simple.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout/v2_widget_dasheditpopup.xml" value="0.418359375" />
+        <entry key="powerview/src/main/res/layout/v2_widget_hubrow.xml" value="0.241796875" />
         <entry key="powerview/src/main/res/layout/v2v3_activity_advancedaccountsettings.xml" value="0.5552536231884058" />
         <entry key="powerview/src/main/res/layout/v2v3_fragment_settingsadvanced.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v2v3_widget_morerow.xml" value="0.41162109375" />
@@ -148,7 +149,7 @@
         <entry key="powerview/src/main/res/layout/v3_activity_remotegroup.xml" value="0.2777777777777778" />
         <entry key="powerview/src/main/res/layout/v3_activity_remoteslist.xml" value="0.360546875" />
         <entry key="powerview/src/main/res/layout/v3_activity_replace_shade.xml" value="0.3670322138450994" />
-        <entry key="powerview/src/main/res/layout/v3_activity_roomsettings.xml" value="0.23046875" />
+        <entry key="powerview/src/main/res/layout/v3_activity_roomsettings.xml" value="0.33" />
         <entry key="powerview/src/main/res/layout/v3_activity_roomview.xml" value="0.25" />
         <entry key="powerview/src/main/res/layout/v3_activity_scene_controller_list.xml" value="0.48243243243243245" />
         <entry key="powerview/src/main/res/layout/v3_activity_scenesetup.xml" value="0.3670322138450994" />
