@@ -74,7 +74,7 @@
         <entry key="powerview/src/main/res/layout-sw720dp/v2_fragment_scenes.xml" value="0.23893229166666666" />
         <entry key="powerview/src/main/res/layout-sw768dp/v3_activity_primary.xml" value="0.4016927083333333" />
         <entry key="powerview/src/main/res/layout-w720dp/v3_activity_base_navigation.xml" value="0.259765625" />
-        <entry key="powerview/src/main/res/layout-w720dp/v3_activity_primary_navigation.xml" value="0.415234375" />
+        <entry key="powerview/src/main/res/layout-w720dp/v3_activity_primary_navigation.xml" value="0.2" />
         <entry key="powerview/src/main/res/layout-w720dp/v3_widget_double_bubble_buttons.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout-w720dp/v3_widget_room_view_theme_views.xml" value="0.37421875" />
         <entry key="powerview/src/main/res/layout-w720dp/v3_widget_rooom_view_theme_views.xml" value="0.5384615384615384" />
