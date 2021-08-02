@@ -74,7 +74,7 @@
         <entry key="powerview/src/main/res/layout-sw720dp/v2_fragment_scenes.xml" value="0.23893229166666666" />
         <entry key="powerview/src/main/res/layout-sw768dp/v3_activity_primary.xml" value="0.4016927083333333" />
         <entry key="powerview/src/main/res/layout-w720dp/v3_activity_base_navigation.xml" value="0.259765625" />
-        <entry key="powerview/src/main/res/layout-w720dp/v3_activity_primary_navigation.xml" value="0.263671875" />
+        <entry key="powerview/src/main/res/layout-w720dp/v3_activity_primary_navigation.xml" value="0.415234375" />
         <entry key="powerview/src/main/res/layout-w720dp/v3_widget_double_bubble_buttons.xml" value="0.418359375" />
         <entry key="powerview/src/main/res/layout-w720dp/v3_widget_room_view_theme_views.xml" value="0.37421875" />
         <entry key="powerview/src/main/res/layout-w720dp/v3_widget_rooom_view_theme_views.xml" value="0.5384615384615384" />
@@ -213,7 +213,7 @@
         <entry key="powerview/src/main/res/layout/v3_fragment_remotesyncholdstop.xml" value="0.4697368421052632" />
         <entry key="powerview/src/main/res/layout/v3_fragment_replace_shade.xml" value="0.3670322138450994" />
         <entry key="powerview/src/main/res/layout/v3_fragment_replace_shade_list.xml" value="0.3670322138450994" />
-        <entry key="powerview/src/main/res/layout/v3_fragment_rooms.xml" value="0.33984375" />
+        <entry key="powerview/src/main/res/layout/v3_fragment_rooms.xml" value="0.415234375" />
         <entry key="powerview/src/main/res/layout/v3_fragment_roomselect.xml" value="0.5578125" />
         <entry key="powerview/src/main/res/layout/v3_fragment_roomssceneselect.xml" value="0.49583333333333335" />
         <entry key="powerview/src/main/res/layout/v3_fragment_roomview.xml" value="0.370625" />
